@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" height="270" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="right" alt="Coding" width="280" height="260" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 - 🔭 I'm currently working on **Secure Voting Protocol with Cryptographic Primitives**
 - 🌱 I'm currently learning **Machine Learning, Cryptography, and Cybersecurity**
