@@ -218,7 +218,7 @@ DOI: 10.1109/CCICT65753.2025.00038
 </div>
 
 <div align="center">
-  <h3>⭐ From [Shashivadhan1911](https://github.com/Shashivadhan1911) with ❤️</h3>
+  <h3>⭐ From <a href = "https://github.com/Shashivadhan1911">Shashivadhan1911</a> with ❤️</h3>
   <p><i>Happy Coding! 🚀</i></p>
 </div>
 
