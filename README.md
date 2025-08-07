@@ -4,15 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Student;Machine+Learning+%26+Cryptography+Enthusiast;IoT+%26+Cybersecurity+Explorer;Always+learning+new+technologies;Let's+build+something+amazing!" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Shashivadhan1911/Shashivadhan1911/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
-</div>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 
 - 🔭 I'm currently working on **Secure Voting Protocol with Cryptographic Primitives**
 - 🌱 I'm currently learning **Machine Learning, Cryptography, and Cybersecurity**
