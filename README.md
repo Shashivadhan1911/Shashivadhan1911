@@ -53,13 +53,6 @@
   <img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=internetofthings&logoColor=white" alt="IoT" />
 </p>
 
-### Cryptography & Security
-<p>
-  <img src="https://img.shields.io/badge/RSA-FF0000?style=for-the-badge&logo=security&logoColor=white" alt="RSA" />
-  <img src="https://img.shields.io/badge/Cryptography-2C5282?style=for-the-badge&logo=lock&logoColor=white" alt="Cryptography" />
-  <img src="https://img.shields.io/badge/Cybersecurity-FF6B35?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Digital%20Signatures-4A5568?style=for-the-badge&logo=signature&logoColor=white" alt="Digital Signatures" />
-</p>
 
 ### Tools & Platforms
 <p>
