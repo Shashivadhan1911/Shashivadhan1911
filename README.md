@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Shashivadhan Cheepiri
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Student;Machine+Learning+%26+Cryptography+Enthusiast;IoT+%26+Cybersecurity+Explorer;Always+learning+new+technologies;Let's+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Student;Machine+Learning+Enthusiast;IoT+%26+Explorer;Always+learning+new+technologies;Let's+build+something+amazing!" alt="Typing SVG" />
 </div>
 
 
@@ -11,11 +11,12 @@
 
 <img align="right" alt="Coding" width="280" height="255" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
-- 🔭 I'm currently working on **Secure Voting Protocol with Cryptographic Primitives**
-- 🌱 I'm currently learning **Machine Learning, Cryptography, and Cybersecurity**
-- 👯 I'm looking to collaborate on **ML projects, IoT systems, and Cybersecurity research**
-- 🤔 I'm looking for help with **Advanced Cryptographic implementations**
-- 💬 Ask me about **Python, Machine Learning, IoT, Arduino, Cryptography**
+- 🎯 Passionate about building impactful software and smart systems.  
+- 🎓 Final-year B.Tech student in Computer Science @ **SR University** (CGPA: `8.8/10`)  
+- 🏆 Diploma in EEE from Govt. Polytechnic, Warangal (CGPA: `7.7/10`)  
+- 🌱 Currently upskilling in **DSA, Full Stack Web Dev, and AI/ML**  
+- 🧠 Exploring system design, scalable architectures, and ML deployments  
+- 💡 Motto: *“Reimagine, Reinvent, Realize.”*
 - 📫 How to reach me: **shashivadhan1911@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I published a research paper on Heart Attack Prediction with 86.89% accuracy using Random Forest!**
@@ -91,28 +92,28 @@
 
 <div align="center">
 
-### 🔐 Secure Voting Protocol with Cryptographic Primitives
-**Tech Stack:** Python, PyCryptodome, RSA, Homomorphic Encryption
-- Designed secure electronic voting system using homomorphic encryption
-- Implemented zero-knowledge proofs for vote validation
-- Integrated digital signatures for voter authentication
-
 ### 🧠 Heart Attack Prediction using Random Forest
 **Tech Stack:** Python, scikit-learn, Random Forest, SHAP, Machine Learning
 - **Published in IEEE CCICT Conference 2025**
 - Achieved **86.89% accuracy** for cardiovascular disease prediction
 - Implemented Explainable AI techniques using SHAP
 
+### 🏠 Telegram Home Automation System
+**Tech Stack:** Arduino, ESP32, C++, IoT
+- IoT-based home automation controlled via Telegram bot
+- Integrated microcontroller with relay modules for remote control
+
+### 🔐 Secure Voting Protocol with Cryptographic Primitives
+**Tech Stack:** Python, PyCryptodome, RSA, Homomorphic Encryption
+- Designed secure electronic voting system using homomorphic encryption
+- Implemented zero-knowledge proofs for vote validation
+- Integrated digital signatures for voter authentication
+
 ### 🌐 Language Detection System
 **Tech Stack:** Python, NLTK, scikit-learn, Machine Learning
 - Developed multilingual text classification system
 - Used character n-grams and TF-IDF vectorization
 - Compared multiple ML models (Naive Bayes, SVM, Random Forest)
-
-### 🏠 Telegram Home Automation System
-**Tech Stack:** Arduino, ESP32, C++, IoT
-- IoT-based home automation controlled via Telegram bot
-- Integrated microcontroller with relay modules for remote control
 
 </div>
 
@@ -124,7 +125,7 @@
 
 ### 🎓 Education
 **SR University, Warangal** - Bachelor of Technology in Computer Science (2023-2026)  
-**CGPA:** 8.5/10.0
+**CGPA:** 8.8/10.0
 
 **Govt. Polytechnic Warangal** - Diploma in Electrical and Electronics Engineering (2020-2023)  
 **Percentage:** 77%
@@ -158,8 +159,8 @@
   <a href="https://github.com/Shashivadhan1911/FDI_Compliance_aid">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashivadhan1911&repo=FDI_Compliance_aid&theme=tokyonight" />
   </a>
-  <a href="https://github.com/yourusername/another-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=another-project&theme=tokyonight" />
+  <a href="https://github.com/Shashivadhan1911/Heart_attack_prediction_using_RF-publication-">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashivadhan1911&repo=Heart_attack_prediction_using_RF-publication-&theme=tokyonight" />
   </a>
 </div>
 
@@ -171,7 +172,7 @@
 
 ### 📄 Published Research
 **"Heart Attack Prediction using Random Forest"** - IEEE CCICT Conference 2025  
-DOI: 10.1109/CCICT65753.2025.00038
+DOI: [10.1109/CCICT65753.2025.00038](https://ieeexplore.ieee.org/abstract/document/11087776)
 - Developed Random Forest classifier with **86.89% accuracy**
 - Implemented Explainable AI techniques using **SHAP**
 - Focus on cardiovascular disease prediction and model interpretability
