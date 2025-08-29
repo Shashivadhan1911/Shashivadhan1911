@@ -73,7 +73,7 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashivadhan1911&layout=compact&langs_count=7&theme=tokyonight&bg_color=0D1117&color=00b4d6&line=00b4d6&point=00b4d6&area=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashivadhan1911&layout=compact&langs_count=7&theme=tokyonight&bg_color=0D1117&title_color=00b4d6&color=00b4d6&line=00b4d6&point=00b4d6&area=true&hide_border=true"/>
   
 </div>
 
