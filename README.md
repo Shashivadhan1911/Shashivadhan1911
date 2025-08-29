@@ -78,8 +78,8 @@
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Shashivadhan1911&theme=dark&show_icons=true&count_private=true&border=00b4d6&stroke=00b4d6&title_color=00b4d6&icon_color=00b4d6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashivadhan1911&theme=dark&background=0d1117&border=00b4d6&stroke=00b4d6&ring=00b4d6&fire=00b4d6&currStreakLabel=00b4d6" alt="Streak Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Shashivadhan1911&theme=dark&show_icons=true&count_private=true&hide_border=true&border=00b4d6&stroke=00b4d6&title_color=00b4d6&icon_color=00b4d6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashivadhan1911&theme=dark&background=0d1117&border=00b4d6&stroke=00b4d6&ring=00b4d6&fire=00b4d6&currStreakLabel=00b4d6&hide_border=true" alt="Streak Stats" />
 </div>
 
 <div align="center">
