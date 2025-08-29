@@ -72,14 +72,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shashivadhan1911&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashivadhan1911&layout=compact&langs_count=7&theme=tokyonight"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashivadhan1911&layout=compact&langs_count=7&theme=tokyonight&bg_color=0D1117&color=00b4d6&line=00b4d6&point=00b4d6&area=true&hide_border=true"/>
   
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Shashivadhan1911&show_icons=true&count_private=true&hide_border=true&title_color=00b4d6&icon_color=00b4d6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Shashivadhan1911&theme=dark&show_icons=true&count_private=true&border=00b4d6&stroke=00b4d6&title_color=00b4d6&icon_color=00b4d6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashivadhan1911&theme=dark&background=0d1117&border=00b4d6&stroke=00b4d6&ring=00b4d6&fire=00b4d6&currStreakLabel=00b4d6" alt="Streak Stats" />
 </div>
 
